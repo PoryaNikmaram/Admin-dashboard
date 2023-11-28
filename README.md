@@ -37,3 +37,6 @@ preference.
 # Technologies Used :
 
 ReactJs, RTK Query, Formik, Yup, MUI, Supabase
+
+take an online look 😉 https://pnadmin-dashboard.netlify.app email :
+wicisa6762@cumzle.com password : 2011380Pn
